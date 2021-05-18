@@ -1,0 +1,55 @@
+core/repository/TeamRepository.java
+ core.repository.TeamRepository
+core/repository/SportiveRepository.java
+ core.repository.SportiveRepository
+core/model/Trainer.java
+ core.model.Trainer
+ core.model.Trainer$TrainerBuilder
+core/model/BaseEntity.java
+ core.model.BaseEntity
+core/model/Team.java
+ core.model.Team
+ core.model.Team$TeamBuilder
+core/repository/Repository.java
+ core.repository.Repository
+core/validators/SportiveValidator.java
+ core.validators.SportiveValidator
+core/config/JPAConfig.java
+ core.config.JPAConfig
+core/validators/TrainerValidator.java
+ core.validators.TrainerValidator
+core/repository/TrainerRepository.java
+ core.repository.TrainerRepository
+core/service/TeamServiceImpl.java
+ core.service.TeamServiceImpl
+core/model/Sportive.java
+ core.model.Sportive
+ core.model.Sportive$SportiveBuilder
+core/config/CacheConfig.java
+ core.config.CacheConfig
+ core.config.CacheConfig$CustomRemovalListener
+core/validators/TeamValidator.java
+ core.validators.TeamValidator
+core/validators/ValidatorException.java
+ core.validators.ValidatorException
+core/service/TrainerServiceImpl.java
+ core.service.TrainerServiceImpl
+core/model/SportiveTrainer.java
+ core.model.SportiveTrainer
+ core.model.SportiveTrainer$SportiveTrainerBuilder
+core/service/SportiveService.java
+ core.service.SportiveService
+core/service/SportiveServiceImpl.java
+ core.service.SportiveServiceImpl
+core/repository/SportiveTrainerRepository.java
+ core.repository.SportiveTrainerRepository
+core/service/SportiveTrainerServiceImpl.java
+ core.service.SportiveTrainerServiceImpl
+core/service/TrainerService.java
+ core.service.TrainerService
+core/validators/Validator.java
+ core.validators.Validator
+core/service/SportiveTrainerService.java
+ core.service.SportiveTrainerService
+core/service/TeamService.java
+ core.service.TeamService
