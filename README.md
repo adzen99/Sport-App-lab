@@ -1,1 +1,14 @@
 # Sport-App-lab
+This is an app that manages sportives, trainers and teams.
+-CRUD opeartions
+-Filters
+-GUI
+
+Technologies that were used:
+Back-end:
+- Java Spring
+- PostgreSQL
+Front-end:
+- Angular
+
+For the web server I used Apache Tomcat.
