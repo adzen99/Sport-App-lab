@@ -12,3 +12,5 @@ Front-end:
 - Angular
 
 For the web server I used Apache Tomcat.
+
+Note: This is a project made for a laboratory from the faculty.
