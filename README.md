@@ -1,4 +1,3 @@
-# Sport-App-lab
 # This is an app that manages sportives, trainers and teams.
 - CRUD opeartions
 - Filters
