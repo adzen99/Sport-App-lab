@@ -5,12 +5,12 @@
 - GUI
 
 Technologies that were used:
-Back-end:
-- Java Spring
-- PostgreSQL
-Front-end:
-- Angular
+- Back-end:
+  - Java Spring
+  - PostgreSQL
+- Front-end:
+  - Angular
 
-For the web server I used Apache Tomcat.
+- For the web server I used Apache Tomcat.
 
 Note: This is a project made for a laboratory from the faculty.
